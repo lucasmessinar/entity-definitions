@@ -8,6 +8,8 @@ goldenTags:
   - user_journey
   - application
   - product
+  - nr.sloPeriod
+  - nr.sloPeriod
 configuration:
   entityExpirationTime: MANUAL
   alertable: false
